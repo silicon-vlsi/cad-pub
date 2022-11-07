@@ -17,7 +17,7 @@ then
   echo "  7) localsim:  sets up /home/local/simulation"
   echo "  8) localdoc:  creates /home/local/docs"
   echo " "
-  echo " CHECK INSTALLATION with /CAD/cad-pub/bin/check-install.sh" 
+  echo " CHECK INSTALLATION with <GIT/CADscripts location>/bin/check-install.sh" 
   echo " "
   exit 1
 fi
